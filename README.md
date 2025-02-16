@@ -8,7 +8,7 @@
 
 # The Unsecure PWA
 
-Your client, "The Unsecure PWA Company", has engaged you as a software engineering security specialist to provide expert advice on the security and privacy of their application. This progressive web app is currently in the testing and debugging phase of the software development lifecycle.
+Your client, "Normo Unsecure PWA Company", has engaged you as a software engineering security specialist to provide expert advice on the security and privacy of their application. This progressive web app is currently in the testing and debugging phase of the software development lifecycle.
 
 ## The task
 
@@ -19,7 +19,7 @@ You are to run a range of security tests and scans along with a white/grey/black
    - Security or privacy issues that cannot be mitigated by technical engineering solutions
    - Security issues that must be tested in the production environment
 3. Identify all security or privacy vulnerabilities you discovered and provide an impact assessment of each.
-4. Provide recommendations for "The Unsecure PWA Company's" security and privacy by design approach going forward.
+4. Provide recommendations for "Normo Unsecure PWA Company's" security and privacy by design approach going forward.
 5. Design and develop implementations using HTML/CSS/JS/SQL/JSON/Python code and/or web content changes as required to patch each vulnerability you discover.
 
 ---
@@ -42,13 +42,6 @@ Other Sandbox options:
 - Ubuntu on a USB or in a virtual machine
 - Qubes OS in a virtual machine
 
----
-
-> [!Tip]
->
-> ## Teaching advice:
->
-> This app has been designed as either a teaching tool, an assessment tool, an assessment as a learning tool or a professional learning tool. **As a teaching tool** the teacher can use the app to demonstrate discrete vulnerabilities and then teach the preferred patch method. **As an assessment tool** the students should be taught the knowledge and skills, then given the app to analyse and report on before designing and developing appropriate patches (patching all will be time-prohibitive). **As an assessment as a learning tool** teachers can teach vulnerabilities in the app and then support students to design and develop patches while assessing them formatively. **As a professional learning tool** teachers can use the app to deepen their understanding of vulnerabilities, threat assessment and vulnerability patch design.
 
 ---
 
@@ -73,8 +66,8 @@ Other Sandbox options:
 ### Deployment
 
 ```bash
-git clone https://github.com/TempeHS/The_Unsecure_PWA.git
-CD The_Unsecure_PWA
+git clone https://github.com/NBHS-Software-Engineering/Normo_Unsecure_PWA.git
+CD Normo_Unsecure_PWA
 python main.py
 ```
 
