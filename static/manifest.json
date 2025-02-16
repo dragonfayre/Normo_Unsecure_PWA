@@ -1,5 +1,5 @@
 {
-    "name": "The Unsecure PWA",
+    "name": "Normo Unsecure PWA",
     "short_name": "unsecPWA",
     "start_url": "/",
     "display": "standalone",
@@ -62,7 +62,7 @@
       "sizes": "1920x1080",
       "type": "image/png",
       "form_factor": "wide",
-      "label": "Homescreen of The Unsecure PWA"
+      "label": "Homescreen of Normo Unsecure PWA"
     }
   ]
   }
